@@ -98,7 +98,7 @@
 - **Elasticsearch, Prometheus, Grafana, Simple UI**  
 - **Администрирование Windows-серверов**  
 - **Проектирование архитектуры (BPMN, UML, EPC)**  
-- **SOLID, DevOps, CI/CD**  
+- **S.O.L.I.D, DevOps, CI/CD**  
 
 ---
 
