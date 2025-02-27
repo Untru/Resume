@@ -101,7 +101,7 @@
 
 ---
 🔗 **Докладчик:**  
-([INFOSTART TEAMLEAD & CIO EVENT 2025](https://event.infostart.ru/teamlead_2025/agenda/2246651/)  
+[INFOSTART TEAMLEAD & CIO EVENT 2025](https://event.infostart.ru/teamlead_2025/agenda/2246651/)  
 
 ---
 
